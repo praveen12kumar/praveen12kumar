@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
 <h3 align="center">A passionate frontend developer who knows backend from India.</h3>
-<p align="right"><img src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif" alt="coder" /></p>
-
+  <img align="right" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif" alt="coder" height="300" />
 - 🔭 I’m currently working on **full stack Youtube like app**
 
 - 🌱 I’m currently learning **NextJs, Backend Development**
@@ -14,6 +13,8 @@
 - 📫 How to reach me **praveenshakya1@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1o_BT16i_dZ9jdJ9g9LaCIuYsip2D-Q_f/view](https://drive.google.com/file/d/1o_BT16i_dZ9jdJ9g9LaCIuYsip2D-Q_f/view)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
