@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **praveenshakya1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o_BT16i_dZ9jdJ9g9LaCIuYsip2D-Q_f/view](https://drive.google.com/file/d/1o_BT16i_dZ9jdJ9g9LaCIuYsip2D-Q_f/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XShiolzNhjMTkhgGht1RRztpNpZcQCSu/view?usp=drive_link]
 
 
 
