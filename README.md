@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **NextJs, Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://portfolio1-website1.netlify.app/](https://portfolio1-website1.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio1-website1.netlify.app/](https://praveen1-1portfolio.netlify.app/)
 
 - 💬 Ask me about **React,**
 
 - 📫 How to reach me **praveenshakya1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XShiolzNhjMTkhgGht1RRztpNpZcQCSu/view?usp=drive_link]
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XShiolzNhjMTkhgGht1RRztpNpZcQCSu/view?usp=drive_link)
 
 
 
